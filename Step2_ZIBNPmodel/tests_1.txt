@@ -1,0 +1,4 @@
+
+Error in sobroutine initial_...
+ifault= 4 
+[1] 0
